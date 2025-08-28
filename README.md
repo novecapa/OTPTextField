@@ -24,7 +24,7 @@ Ideal para login con SMS, verificación de email o 2FA.
 
 ---
 
-## 🧑‍💻 Uso
+## 🧑‍💻 Uso WIP
 
 ### Ejemplo básico
 
@@ -68,11 +68,10 @@ enum TextFieldStyle: String, CaseIterable {
 
 ---
 
-## 📸 Demo
+## 📸 Demo WIP
 
-WIP
 ---
 
 ## 📄 Licencia
 
-MIT © [Josep Cerdá Penadés]
+MIT © Josep Cerdá Penadés
