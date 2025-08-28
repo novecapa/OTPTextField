@@ -24,21 +24,6 @@ Ideal para login con SMS, verificación de email o 2FA.
 
 ---
 
-## 🚀 Instalación
-
-### Swift Package Manager
-
-1. En Xcode: **File > Add Packages…**  
-2. Introduce la URL del repo:
-
-   ```bash
-   https://github.com/<tu-usuario>/VerificationField
-   ```
-
-3. Selecciona la versión y añádela a tu target.
-
----
-
 ## 🧑‍💻 Uso
 
 ### Ejemplo básico
