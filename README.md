@@ -24,7 +24,7 @@ Ideal para login con SMS, verificación de email o 2FA.
 
 ---
 
-## 🧑‍💻 Uso WIP
+## 🧑‍💻 Uso
 
 ### Ejemplo básico
 
@@ -68,8 +68,8 @@ enum TextFieldStyle: String, CaseIterable {
 
 ---
 
-## 📸 Demo WIP
-
+## 📸 Demo
+![Simulator Screen Recording - iPhone 16 Pro Max - 2025-09-01 at 09 01 05](https://github.com/user-attachments/assets/e334a704-a796-49af-a17e-5c4884997285)
 ---
 
 ## 📄 Licencia
