@@ -11,8 +11,6 @@ Ideal para login con SMS, verificación de email o 2FA.
 - ✅ **Estilos personalizables**: borde redondeado o subrayado
 - ✅ **Validación asíncrona** con callback
 - ✅ **Autorrelleno de iOS** (`.oneTimeCode`)
-- ✅ **Soporte de pegar y backspace**
-- ✅ Hecho 100% en SwiftUI
 
 ---
 
